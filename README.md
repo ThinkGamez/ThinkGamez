@@ -1,41 +1,23 @@
-# [Wedge]
+# Wedge
 
-##### Self Taught Programmer
+*Self Taught Programmer*
 
-###### Driven by curiosity, I’m always discovering new things and growing along the way.
+Driven by curiosity, I’m always discovering new things and growing along the way.
+
+---
 
 ### Languages
-<!-- The following icons or list items have been kept; the ones for C, C++, C#, Typescript, and JavaScript have been removed -->
-- [Icon or Name for Python]
-- [Icon or Name for Go]
-- [Icon or Name for Java]
-- [Icon or Name for Ruby]
-<!-- Add or adjust as you prefer -->
+
+[![Python Icon](https://camo.githubusercontent.com/19d7d80156847c2a2598ef28bc7255bcf59b0c120546047c738cabde6246e450/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f4c616e67756167652f507974686f6e3f7468656d653d6461726b)](https://www.python.org)
+[![Lua Icon](https://camo.githubusercontent.com/062f09f28d9815434a13ad27ca99df10ade9c4750d2c196d8bf1a465e36665a3/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f4c616e67756167652f4c75613f7468656d653d6461726b)](https://www.lua.org)
+[![HTML Icon](https://camo.githubusercontent.com/9bc8fda23f1369eb01897bc98254531e047b0a6f09bb7b84f1fe5df8c0ebbc8b/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f4c616e67756167652f48544d4c353f7468656d653d6461726b)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS Icon](https://camo.githubusercontent.com/4b004060f3e21828018b278deb1b52d68d82b3113921366c30d247506cde9ffa/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f4c616e67756167652f4353533f7468656d653d6461726b)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
 
 ### Tools
-<!-- The tools icons have been adjusted to remove Visual Studio and Node.js -->
-- [Icon or Name for Git]
-- [Icon or Name for Docker]
-- [Icon or Name for VS Code]  <!-- if you still use VS Code -->
-- [Icon or Name for Linux]
-<!-- Add or adjust as you prefer -->
 
-### Statistics
-<!-- Your GitHub statistics can be displayed using GitHub readme stats cards -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-
-### Contact
-- [Email](mailto:youremail@example.com)
-- [Twitter](https://twitter.com/yourhandle)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-
-## Popular Repositories
-
-1. **Prestige-Roblox**  
-   *An extremely bad way of executing Lua scripts into Roblox that no one uses*  
-   **Language:** Python  
-   ![Stars](https://img.shields.io/github/stars/yourusername/Prestige-Roblox?style=social)  ![Forks](https://img.shields.io/github/forks/yourusername/Prestige-Roblox?style=social)
-
-2. **Profile Configuration**  
-   *GitHub Profile Configuration*  
-   ![Stars](https://img.shields.io/github/stars/yourusername/Profile-Configuration?style=social)
+[![VS Code Icon](https://camo.githubusercontent.com/492669f489f88d3c54919bf0d30d566609697a3b037bb7e99f9152b8f1d23151/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f536f6674776172652f56697375616c25323053747564696f253230436f64653f7468656d653d6461726b)](https://code.visualstudio.com)
+[![Git Icon](https://camo.githubusercontent.com/ac68ac2a5bc038aa27d1d2ee2ac461fe55a7ab6847b896fcff1bb1e8fadd601c/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f536f6674776172652f4769743f7468656d653d6461726b)](https://git-scm.com)
+[![GitHub Icon](https://camo.githubusercontent.com/1417bd34d0c303f9abcbd174d57e9ee123f2b2f732c1daf382b38cfee6a282f5/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f536f6674776172652f4769746875623f7468656d653d6461726b)](https://github.com)
+[![Figma Icon](https://camo.githubusercontent.com/c0a3c23a7632e684793ce3cbafb0bb84a8f6b09759c54fccc38ad250191c0d97/68747470733a2f2f7376676c2d62616467652e76657263656c2e6170702f6170692f44657369676e2f4669676d613f7468656d653d6461726b)](https://www.figma.com)
